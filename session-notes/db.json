@@ -1,0 +1,84 @@
+{
+	"restaurants": [
+		{
+			"id": 1,
+			"name": "The Gourmet Kitchen",
+			"cuisine": "Italian",
+			"rating": 4.5,
+			"distance": 2.1,
+			"image": "https://placehold.co/200"
+		},
+		{
+			"id": 2,
+			"name": "Sushi Heaven",
+			"cuisine": "Japanese",
+			"rating": 4.8,
+			"distance": 3.2,
+			"image": "https://placehold.co/200"
+		},
+		{
+			"id": 3,
+			"name": "Burger House",
+			"cuisine": "American",
+			"rating": 3.9,
+			"distance": 1.8,
+			"image": "https://placehold.co/200"
+		},
+		{
+			"id": 4,
+			"name": "Spice Symphony",
+			"cuisine": "Indian",
+			"rating": 4.2,
+			"distance": 4.5,
+			"image": "https://placehold.co/200"
+		},
+		{
+			"id": 5,
+			"name": "Dragon Wok",
+			"cuisine": "Chinese",
+			"rating": 4,
+			"distance": 2.9,
+			"image": "https://placehold.co/200"
+		},
+		{
+			"id": 6,
+			"name": "Mediterranean Delights",
+			"cuisine": "Mediterranean",
+			"rating": 4.3,
+			"distance": 5,
+			"image": "https://placehold.co/200"
+		},
+		{
+			"id": 7,
+			"name": "Pizza Paradise",
+			"cuisine": "Italian",
+			"rating": 4.7,
+			"distance": 3,
+			"image": "https://placehold.co/200"
+		},
+		{
+			"id": 8,
+			"name": "Vegan Bliss",
+			"cuisine": "Vegan",
+			"rating": 4.1,
+			"distance": 2.3,
+			"image": "https://placehold.co/200"
+		},
+		{
+			"id": 9,
+			"name": "Taco Fiesta",
+			"cuisine": "Mexican",
+			"rating": 3.8,
+			"distance": 6.2,
+			"image": "https://placehold.co/200"
+		},
+		{
+			"id": 10,
+			"name": "Fine Dine",
+			"cuisine": "French",
+			"rating": 4.6,
+			"distance": 1.2,
+			"image": "https://placehold.co/200"
+		}
+	]
+}
